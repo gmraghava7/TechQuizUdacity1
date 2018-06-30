@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Tech Quiz</string>
+
+    <string name="question1">1. Who is credited with designing the first automatic digital computer?</string>
+    <string name="question1_choice1">Charles Babbage</string>
+    <string name="question1_choice2">Steve Jobs</string>
+    <string name="question1_choice3">Steve Wozniak</string>
+    <string name="question1_choice4">Bill Gates</string>
+
+
+    <string name="question2">2. What process involves treating rubber with sulfur to harden it?</string>
+    <string name="question2_choice1">excellent markup language</string>
+    <string name="question2_choice2">extensive markup language</string>
+    <string name="question2_choice3">easy markup language</string>
+    <string name="question2_choice4">extensible markup language</string>
+
+
+    <string name="question3">3. When did the Nintendo system debut in the U.S.A.?</string>
+    <string name="question3_choice1">1980</string>
+    <string name="question3_choice2">1985</string>
+    <string name="question3_choice3">1998</string>
+    <string name="question3_choice4">1970</string>
+
+    <string name="question4">4. The giant sub atomic particle collider, capable of reproducing the big bang conditions, is located in which research facility?</string>
+    <string name="question4_choice1">KAOS</string>
+    <string name="question4_choice2">NASA</string>
+    <string name="question4_choice3">CERN</string>
+    <string name="question4_choice4">PERN</string>
+
+    <string name="question5">5. Which company made the first commercial portable cell phone in 1983? </string>
+
+    <string name="question6">6. When did Pioneer release its first consumer laser disc player in the U.S.A.?</string>
+
+    <string name="submit_answers">Submit Answers</string>
+    <string name="rule1">1.MCQs having only one option is correct</string>
+    <string name="rule2">2.MCQs having more than one option is correct</string>
+    <string name="rule3">3.Fill the blanks with correct answers</string>
+    <string name="rule">*Each question carries 1 mark.</string>
+    <string name="inst">This Quiz consists of three types of questions.</string>
+
+</resources>
